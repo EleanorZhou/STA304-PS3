@@ -1,5 +1,7 @@
 # STA304-PS3
-3rd Assignment of STA304 - Predicting the 2020 America Federal Election Result from Democracy Fund + UCLA Nationscape and IPUMS USA Datasets This repo contains code and data for forecasting the US 2020 presidential election. It was created by Rutvik Gupta (1004939837), Elyssa Plaza (1004356760), Yubing Xia (1005063244), Hongbo Zhou(1004832862).
+3rd Assignment of STA304 - Predicting the 2020 America Federal Election Result from Democracy Fund + UCLA Nationscape and IPUMS USA Datasets. 
+
+This repo contains code and data for forecasting the US 2020 presidential election. It was created by Rutvik Gupta (1004939837), Elyssa Plaza (1004356760), Yubing Xia (1005063244), Hongbo Zhou(1004832862).
 The purpose is to create a report that summarises the results of a statistical model that we built. 
 
 Some data is unable to be shared publicly. We detail how to get that below. 
